@@ -171,7 +171,7 @@ triangle / vector style system i made for the team.
 
 ```text
 if something can be expressed with fewer lines,
-it should be... kinda ironic since this readme is 240 lines long
+it should be... kinda ironic since this readme is 257 lines long
 ```
 
 ---
