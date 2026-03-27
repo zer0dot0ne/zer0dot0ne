@@ -139,8 +139,8 @@ i designed the icons and visual identity stuff for the team.
   <a href="https://github.com/0xadamastor">
     <img src="https://github.com/0xadamastor.png" width="90" />
   </a>
-  <a href="https://github.com/Samucahub">
-    <img src="https://github.com/Samucahub.png" width="90" />
+  <a href="https://github.com/0xthearchitect">
+    <img src="https://github.com/0xthearchitect.png" width="90" />
   </a>
   <a href="https://github.com/RodrigoCybersecurity">
     <img src="https://github.com/RodrigoCybersecurity.png" width="90" />
