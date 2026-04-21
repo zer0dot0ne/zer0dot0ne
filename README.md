@@ -201,6 +201,7 @@ instead i usually:
 - structure ideas
 
 or at least try to.
+i guess you can say... NOT made by me...
 ```
 
 ---
@@ -243,7 +244,7 @@ triangles.generated++
 ---
 
 ```text
-no longer hatman.
+no longer hatman. now loyal to a name i made back in 2014
 ```
 <p align="center">
 ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
