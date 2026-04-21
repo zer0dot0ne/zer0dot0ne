@@ -133,6 +133,9 @@ those too.
 made by me.
 
 i designed the icons and visual identity stuff for the team.
+
+i do not have that big of an ego to repeat "MaDe By Me" every two sentences.
+however, i found it funny to credit myself like this.
 ```
 
 <p align="center">
